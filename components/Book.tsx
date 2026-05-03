@@ -134,7 +134,7 @@ export default function BookList() {
       {/* Thông tin sinh viên */}
       <div className="bg-white border rounded-lg p-6 mb-6 shadow-sm flex justify-between items-center">
         <div>
-          <h2 className="text-2xl font-bold mb-2">THI GIỮA KỲ</h2>
+          <h2 className="text-2xl font-bold mb-2">THI GIỮA KỲ - Code mới nè ffdjgjfghfjgffkgfgjhjfg</h2>
           <div className="flex gap-4">
             <span className="bg-blue-50 text-blue-600 px-3 py-1 rounded-full text-sm border border-blue-100">
               Họ tên: {thongTinSV.fullName || "___"}
@@ -151,7 +151,7 @@ export default function BookList() {
           onClick={() => openUpdateModal(null)}
           className="rounded-md"
         >
-          Thêm sách mới
+          Thêm sách mới đfg fgfgfh ghg hgh gh
         </Button>
       </div>
 
