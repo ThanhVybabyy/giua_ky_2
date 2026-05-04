@@ -151,7 +151,7 @@ export default function BookList() {
           onClick={() => openUpdateModal(null)}
           className="rounded-md"
         >
-          Thêm sách mới đfg fgfgfh ghg hgh gh
+          Thêm sách mới 
         </Button>
       </div>
 
