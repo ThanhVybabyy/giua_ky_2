@@ -1,0 +1,74 @@
+ {
+  "products": [
+    {
+      "id": 1,
+      "name": "Bó Hồng Pastel Lãng Mạn",
+      "price": 450000,
+      "image": "https://picsum.photos/id/152/400/500",
+      "category": "Hoa bó"
+    },
+    {
+      "id": 2,
+      "name": "Hướng Dương Rạng Rỡ",
+      "price": 300000,
+      "image": "https://picsum.photos/id/306/400/500",
+      "category": "Hoa bó"
+    },
+    {
+      "id": 3,
+      "name": "Tulip Trắng Tinh Khôi",
+      "price": 600000,
+      "image": "https://picsum.photos/id/629/400/500",
+      "category": "Hoa nhập khẩu"
+    },
+    {
+      "id": 4,
+      "name": "Cúc Họa Mi Xuống Phố",
+      "price": 200000,
+      "image": "https://picsum.photos/id/429/400/500",
+      "category": "Hoa mùa"
+    },
+    {
+      "id": 5,
+      "name": "Lan Hồ Điệp Sang Trọng",
+      "price": 1500000,
+      "image": "https://picsum.photos/id/249/400/500",
+      "category": "Hoa chậu"
+    },
+    {
+      "id": 6,
+      "name": "Bó Cẩm Tú Cầu Xanh",
+      "price": 550000,
+      "image": "https://picsum.photos/id/327/400/500",
+      "category": "Hoa bó"
+    },
+    {
+      "id": 7,
+      "name": "Hoa Ly Thơm Ngát",
+      "price": 400000,
+      "image": "https://picsum.photos/id/455/400/500",
+      "category": "Hoa cắm bình"
+    },
+    {
+      "id": 8,
+      "name": "Baby Trắng Tinh Khiết",
+      "price": 350000,
+      "image": "https://picsum.photos/id/493/400/500",
+      "category": "Hoa bó"
+    },
+    {
+      "id": 9,
+      "name": "Hồng Đỏ Classic",
+      "price": 500000,
+      "image": "https://picsum.photos/id/678/400/500",
+      "category": "Hoa bó"
+    },
+    {
+      "id": 10,
+      "name": "Sen Đá Mix Chậu Cao Cấp",
+      "price": 850000,
+      "image": "https://picsum.photos/id/765/400/500",
+      "category": "Hoa chậu"
+    }
+  ]
+}

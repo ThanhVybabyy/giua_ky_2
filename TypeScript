@@ -1,0 +1,14 @@
+{products.map(p => `
+    <div class="ant-col ant-col-6" style="padding: 8px;">
+        <div class="ant-card ant-card-bordered ant-card-hoverable">
+            <div class="ant-card-cover">
+                <img alt="${p.name}" src="${p.image}" style="height: 200px; object-fit: cover; width: 100%;" />
+            </div>
+            <div class="ant-card-body">
+                <h4>${p.name}</h4>
+                <p style="color: #f5222d; font-weight: bold;">${p.price.toLocaleString()}đ</p>
+                <button class="ant-btn ant-btn-primary add-btn" data-id="${p.id}">Thêm</button>
+            </div>
+        </div>
+    </div>
+`).join('')}
