@@ -1,0 +1,8 @@
+// Định nghĩa cấu trúc dữ liệu cho sản phẩm
+export interface Product {
+    id: number;
+    name: string;
+    price: number;
+    image: string;
+    category?: string;
+}
