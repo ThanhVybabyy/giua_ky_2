@@ -1,4 +1,4 @@
-import 'antd/dist/reset.css'; 
+import 'antd/dist/antd'; 
 import { AppHeader } from './components/Header';
 import { AppFooter } from './components/Footer';
 
