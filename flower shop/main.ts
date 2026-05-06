@@ -1,6 +1,6 @@
 import 'antd/dist/antd'; 
-import { AppHeader } from './components/Header';
-import { AppFooter } from './components/Footer';
+import { AppHeader } from './components/AppHeader';
+import { AppFooter } from './components/AppFooter';
 
 interface Product {
   id: number;
