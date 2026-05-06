@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "web/components/footer.js"  ],
+, "flower shop/components/footer.js"  ],
   "exclude": ["node_modules"]
 }
